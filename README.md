@@ -4,7 +4,7 @@ Handwritten Digit Recognition App
 A Flutter application that recognizes handwritten digits (0-9) using a TensorFlow Lite (TFLite) model. The app allows users to draw a digit on the screen and predicts the digit in real-time using a pre-trained machine learning model.
 
 ##📋 Features
--Interactive Drawing Canvas: Users can draw digits with their fingers.
+-[Interactive Drawing Canvas: Users can draw digits with their fingers.]
 -Real-time Prediction: Provides immediate feedback on the drawn digit.
 -Machine Learning Integration: Uses TensorFlow Lite for efficient on-device inference.
 
