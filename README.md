@@ -20,7 +20,7 @@ A Flutter application that recognizes handwritten digits (0-9) using a TensorFlo
 * Dart enabled IDE (e.g., VS Code, Android Studio).
 + Basic knowledge of Flutter and Dart.
 
-##📦 Dependencies
+## 📦 Dependencies
 - flutter: SDK for building the app
 * tflite_flutter: TensorFlow Lite support
 + http: For downloading the model from Google Drive
